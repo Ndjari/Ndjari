@@ -12,3 +12,6 @@ Como a história é longa, basta saber que eu sou um amante pela busca do conhec
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ndjari&repo=Deteccao_de_Fraudes_com_Analise_de_Dados&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndjari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

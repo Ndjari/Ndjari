@@ -2,7 +2,7 @@
 
 
 ###### Sobre o Leonardo / Ndjari
-Como a história é longa, basta saber que eu sou um amante pela busca do conhecimento e nos últimos anos, mergulhei no universo da Análise de Dados, unindo minha capacidade analítica com a tecnologia. A ideia é melhorar melhorar cada vez mais o modo como transformo uma vasta quantidade de informações em conhecimento, algo que é cada vez mais necessário atualmente. Pensando nisso, desenvolvi habilidades em programação com Python e me especializei em ETL, Data Wrangling, visualização interativa de dados, análise exploratória, Machine Learning, SQL, cloud computing e Big Data.
+Como a história é longa, basta saber que eu sou um amante pela busca do conhecimento e, nos últimos anos, mergulhei no universo da Análise de Dados, unindo minha capacidade analítica com a tecnologia. A ideia é melhorar cada vez mais o modo como transformo uma vasta quantidade de informações em conhecimento, algo que é cada vez mais necessário atualmente. Pensando nisso, desenvolvi habilidades com programação em Python e me especializei em ETL, Data Wrangling, visualização interativa de dados, análise exploratória, Machine Learning, SQL, cloud computing e Big Data.
 
 ### Detalhes
 

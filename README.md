@@ -1,21 +1,60 @@
-## Saudações tecnológicas! 👋
+# Leonardo Ndjari
 
+Data Analytics | Python | Power BI | Business Intelligence | Marketing Analytics
 
-###### Sobre o Leonardo / Ndjari
-Como a história é longa, basta saber que eu sou um amante pela busca do conhecimento e, nos últimos anos, mergulhei no universo da Análise de Dados, unindo minha capacidade analítica com a tecnologia. A ideia é melhorar cada vez mais o modo como transformo uma vasta quantidade de informações em conhecimento, algo que é cada vez mais necessário atualmente. Pensando nisso, desenvolvi habilidades com programação em Python e me especializei em ETL, Data Wrangling, visualização interativa de dados, análise exploratória, Machine Learning, SQL, cloud computing e Big Data.
+---
 
-### Detalhes
+## About Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ndjari&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Data analytics enthusiast focused on transforming data into strategic insights through Business Intelligence, data visualization and analytical modeling.
 
-### Projetos
+Currently developing projects involving:
+- Python
+- Power BI
+- DAX
+- Machine Learning
+- Marketing Analytics
+- Strategic Dashboards
+- Business Intelligence
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ndjari&repo=Deteccao_de_Fraudes_com_Analise_de_Dados&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### Linguagens utilizadas
+## Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndjari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Marketing Investment Analytics
+Strategic marketing analytics project focused on ROI optimization, funnel efficiency and executive decision-making using Python and Power BI.
 
-### Contatos
+🔗 https://github.com/Ndjari/marketing-investment-analytics
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/leonardolo2025/)
+---
+
+### Fraud Detection with Data Analytics
+Machine learning project developed for fraud detection using Python, Random Forest and exploratory data analysis.
+
+🔗 https://github.com/Ndjari/Deteccao_de_Fraudes_com_Analise_de_Dados
+
+---
+
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge)
+
+---
+
+## GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ndjari&show_icons=true&theme=tokyonight)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolo2025/)

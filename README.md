@@ -1,4 +1,4 @@
-# Leonardo Ndjari
+# Leonardo L. Oliveira
 
 Data Analytics | Python | Power BI | Business Intelligence | Marketing Analytics
 
